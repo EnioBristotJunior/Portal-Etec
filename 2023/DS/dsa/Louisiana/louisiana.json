@@ -1,0 +1,53 @@
+{
+  "titulo": "A violencia na Louisiana",
+  "descricao": "Muito perigoso.",
+  "equipe": [
+    {
+      "Nome": "Jonh",
+      "Email": "jonh@gmail.com"
+    },
+    {
+      "Nome": "Karl",
+      "Email": "karl@gmail.com"
+    },
+    {
+      "Nome": "Zack",
+      "Email": "zack@gmail.com"
+    },
+    {
+      "Nome": "Diego",
+      "Email": "diego@gmail.com"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "matutino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Um lugar violento.",
+  "justificativa": "É um legar legal.",
+  "hipotese": "Viver com dignidade.",
+  "objetivos": {
+    "geral": "Morar.",
+    "especificos": ["Louisiana.", "Louisiana.", "Louisiana.", "Louisiana."]
+  },
+  "metodologia": [
+    "Estudo - Viajar para o Louisiana.",
+    "Planejamento - Comer muita carne.",
+    "Desenvolvimento -  Nenhum.",
+    "Entrega - 29/02/2023."
+  ],
+  "referencias": ["Confia"],
+  "pesquisa": "Louisiana",
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

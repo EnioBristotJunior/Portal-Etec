@@ -1,0 +1,54 @@
+{
+    "titulo": "Caminhão",
+    "descricao": "Diesel.",
+    "equipe": [
+      {
+        "Nome": "Dodge",
+        "Email": "dodge@gmail.com"
+      },
+      {
+        "Nome": "Ford",
+        "Email": "ford@gmail.com"
+      },
+      {
+        "Nome": "Chevrolet",
+        "Email": "chevrolet@gmail.com"
+      },
+      {
+        "Nome": "Chrysler",
+        "Email": "chrysler@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Carregar carga e dificil.",
+    "justificativa": "Carregar carga e dificil.",
+    "hipotese": "Carregar mais carga.",
+    "objetivos": {
+      "geral": "Carregar carga.",
+      "especificos": ["Ford.", "Chevrolet.", "Chrysler.", "Dodge."]
+    },
+    "metodologia": [
+      "Estudo - Rua.",
+      "Planejamento - Rua.",
+      "Desenvolvimento -  Fabrica.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "caminhao",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

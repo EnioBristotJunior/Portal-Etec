@@ -1,0 +1,60 @@
+{
+    "titulo": "Carro a diesel",
+    "descricao": "Carro a diesel muito top barato febre no Brasil muito loko barato.",
+    "equipe": [
+      {
+        "Nome": "Frank do Sinatra",
+        "Email": "frankdosinatra@gmail.com"
+      },
+      {
+        "Nome": "Henry You Ford",
+        "Email": "ford@gmail.com"
+      },
+      {
+        "Nome": "Armand Peugeot",
+        "Email": "bomba@gmail.com"
+      },
+      {
+        "Nome": "Louis Renault",
+        "Email": "cadeacitroen@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "vespertino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Um carro.",
+    "justificativa": "Andar e poluir.",
+    "hipotese": "Andar e poluir é um bem para os golfinhos.",
+    "objetivos": {
+      "geral": "Andar/correr.",
+      "especificos": [
+        "Dirigir.",
+        "Dirigir.",
+        "Dirigir.",
+        "Dirigir."      ]
+    },
+    "metodologia": [
+      "Estudo - alugar um carro.",
+      "Planejamento - dirigir.",
+      "Desenvolvimento -  fazer.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": [
+      "Confia"
+    ],
+    "pesquisa": "carro",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

@@ -1,0 +1,53 @@
+{
+  "titulo": "As casas em Hong Kong",
+  "descricao": "Muito apertado.",
+  "equipe": [
+    {
+      "Nome": "Fred",
+      "Email": "fred@gmail.com"
+    },
+    {
+      "Nome": "Francis",
+      "Email": "francis@gmail.com"
+    },
+    {
+      "Nome": "Jonas",
+      "Email": "jonas@gmail.com"
+    },
+    {
+      "Nome": "Hugo",
+      "Email": "hugo@gmail.com"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "matutino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Um lugar apertado.",
+  "justificativa": "É um lugar legal.",
+  "hipotese": "Viver com dignidade.",
+  "objetivos": {
+    "geral": "Morar.",
+    "especificos": ["Hong Kong.", "Hong Kong.", "Hong Kong.", "Hong Kong."]
+  },
+  "metodologia": [
+    "Estudo - Viajar para Hong Kong.",
+    "Planejamento - Comer muito.",
+    "Desenvolvimento -  Nenhum.",
+    "Entrega - 29/02/2023."
+  ],
+  "referencias": ["Confia"],
+  "pesquisa": "Hong Kong",
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

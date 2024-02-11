@@ -1,0 +1,53 @@
+{
+  "titulo": "Extinção das IAs",
+  "descricao": "Muito top.",
+  "equipe": [
+    {
+      "Nome": "IA",
+      "Email": "ia@gmail.com"
+    },
+    {
+      "Nome": "IA",
+      "Email": "ia@gmail.com"
+    },
+    {
+      "Nome": "IA",
+      "Email": "ia@gmail.com"
+    },
+    {
+      "Nome": "IA",
+      "Email": "ia@gmail.com"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "matutino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "IA.",
+  "justificativa": "IAs.",
+  "hipotese": "Morte das IAs.",
+  "objetivos": {
+    "geral": "Morte das IAs.",
+    "especificos": ["IAs.", "IA.", "I.", "."]
+  },
+  "metodologia": [
+    "Estudo - Estudar as IAs.",
+    "Planejamento - Falar com o Chat GPT.",
+    "Desenvolvimento -  Falar com as IAs.",
+    "Entrega - 29/02/2023."
+  ],
+  "referencias": ["Confia"],
+  "pesquisa": "IAs",
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

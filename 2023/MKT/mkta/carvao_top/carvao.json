@@ -1,0 +1,54 @@
+{
+    "titulo": "Fabrica de carvao",
+    "descricao": "Carvao.",
+    "equipe": [
+      {
+        "Nome": "Billy",
+        "Email": "billy@gmail.com"
+      },
+      {
+        "Nome": "Diego",
+        "Email": "diego@gmail.com"
+      },
+      {
+        "Nome": "Alex",
+        "Email": "alex@gmail.com"
+      },
+      {
+        "Nome": "Antonio",
+        "Email": "antonio@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Uma fabrica de carvao.",
+    "justificativa": "Carvao muito top.",
+    "hipotese": "Churrasco.",
+    "objetivos": {
+      "geral": "Queimar.",
+      "especificos": ["Carvao.", "Carva.", "Carv.", "Car."]
+    },
+    "metodologia": [
+      "Estudo - Acender.",
+      "Planejamento - Fogo.",
+      "Desenvolvimento -  Queima.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "carvao",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

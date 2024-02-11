@@ -1,0 +1,54 @@
+{
+    "titulo": "O efeito do vinho no organismo",
+    "descricao": "Vinho delicia.",
+    "equipe": [
+      {
+        "Nome": "Kaique",
+        "Email": "kaique@gmail.com"
+      },
+      {
+        "Nome": "Carlos",
+        "Email": "carlos@gmail.com"
+      },
+      {
+        "Nome": "Fred",
+        "Email": "fred@gmail.com"
+      },
+      {
+        "Nome": "Fernando",
+        "Email": "fernando@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "O efeito do vinho no organismo.",
+    "justificativa": "Vinho muito top.",
+    "hipotese": "Beber e ficar feliz.",
+    "objetivos": {
+      "geral": "Beber.",
+      "especificos": ["Vinho.", "Vinh.", "Vin.", "Vi."]
+    },
+    "metodologia": [
+      "Estudo - Estudar o vinho.",
+      "Planejamento - Beber muito vinho.",
+      "Desenvolvimento -  Beber vinho.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "vinho",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

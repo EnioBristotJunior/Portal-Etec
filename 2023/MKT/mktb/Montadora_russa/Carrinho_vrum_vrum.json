@@ -1,0 +1,54 @@
+{
+    "titulo": "GAZ",
+    "descricao": "Montadora de carros da Russia muito loka muito top.",
+    "equipe": [
+      {
+        "Nome": "Vasili Kanoski",
+        "Email": "vasili@gmail.com"
+      },
+      {
+        "Nome": "Dimitri Mariev",
+        "Email": "dimitri@gmail.com"
+      },
+      {
+        "Nome": "Molotov",
+        "Email": "fogo@gmail.com"
+      },
+      {
+        "Nome": "Kaiser do Paraguai",
+        "Email": "kdop@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Uma montadora.",
+    "justificativa": "Montadora muito top.",
+    "hipotese": "Andar com conforto.",
+    "objetivos": {
+      "geral": "Usar.",
+      "especificos": ["Russia.", "Russi.", "Russ.", "Rus."]
+    },
+    "metodologia": [
+      "Estudo - Ursos e como funcionam.",
+      "Planejamento - Construir um carro.",
+      "Desenvolvimento -  Andar e subir montanhas.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "carrinho vrum vrum",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

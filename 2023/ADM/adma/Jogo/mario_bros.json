@@ -1,0 +1,52 @@
+{
+  "titulo": "Jogo",
+  "descricao": "Jogo de videogame muito loko 2023 super edition.",
+  "equipe": [
+    {
+      "Nome": "Mario Bros",
+      "Email": "mario@gmail.com"
+    },
+    {
+      "Nome": "Link",
+      "Email": "zelda@gmail.com"
+    },
+    {
+      "Nome": "Sonic",
+      "Email": "mariodois@gmail.com"
+    },
+    {
+      "Nome": "Luigi"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "matutino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Tedio.",
+  "justificativa": "Tedio.",
+  "hipotese": "Ficar feliz com o lançamento do jogo.",
+  "objetivos": {
+    "geral": "Super Mario Bros Deluxe Edition 4.0 Super Gold.",
+    "especificos": ["Tum.", "Tum.", "Tum Tum Tum Tum.", "Tum Tum Tum Tum Tum."]
+  },
+  "metodologia": [
+    "Estudo - Jogos de videogame.",
+    "Planejamento - Criar um jogo.",
+    "Desenvolvimento -  Android Studio.",
+    "Entrega - 29/02/2023."
+  ],
+  "referencias": ["Confia"],
+  "pesquisa": "Jogo do Mario",
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

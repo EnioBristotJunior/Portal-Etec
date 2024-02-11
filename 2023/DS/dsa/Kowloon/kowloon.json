@@ -1,0 +1,54 @@
+{
+    "titulo": "cidade murada de Kowloon",
+    "descricao": "Muito apertado.",
+    "equipe": [
+      {
+        "Nome": "Rosangela",
+        "Email": "rosangela@gmail.com"
+      },
+      {
+        "Nome": "Ana",
+        "Email": "ana@gmail.com"
+      },
+      {
+        "Nome": "Raimundo",
+        "Email": "raimundo@gmail.com"
+      },
+      {
+        "Nome": "Marina",
+        "Email": "marina@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Um lugar apertado.",
+    "justificativa": "É um lugar legal.",
+    "hipotese": "Viver com dignidade.",
+    "objetivos": {
+      "geral": "Morar.",
+      "especificos": ["Kowloon.", "Kowloon.", "Kowloon.", "Kowloon."]
+    },
+    "metodologia": [
+      "Estudo - Viajar para Kowloon.",
+      "Planejamento - Dormir muito.",
+      "Desenvolvimento -  Nenhum.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "Kowloon",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

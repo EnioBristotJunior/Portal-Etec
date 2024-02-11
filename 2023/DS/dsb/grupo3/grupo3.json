@@ -1,0 +1,58 @@
+{
+  "titulo": "App de desenho",
+  "descricao": "Aplicativo para desenhar.",
+  "equipe": [
+    {
+      "Nome": "Diego Fernandes",
+      "Email": "dieginho@gmail.com"
+    },
+    {
+      "Nome": "Douglas Barros",
+      "Email": "dobarros@gmail.com"
+    },
+    {
+      "Nome": "Frank Sim Atra",
+      "Email": "frankdojazz@gmail.com"
+    },
+    {
+      "Nome": "Costa da Silva",
+      "Email": "costa@gmail.com"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "vespertino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Um app para ajudar na aprendizagem do desenho.",
+  "justificativa": "Oferecer um app barato e semelhante aos softwares de desenho já existentes.",
+  "hipotese": "Desenvolver um aplicativo de desenho barato irá ajudar na vida.",
+  "objetivos": {
+    "geral": "Descobrir novos artistas.",
+    "especificos": [
+      "Trazer praticidade no desenho.",
+      "Trazer praticidade no desenho.",
+      "Trazer praticidade no desenho.",
+      "Trazer praticidade no desenho."
+    ]
+  },
+  "metodologia": [
+    "Estudo - obter fontes para saber as áreas que devem/precisam ser impactadas pelo projeto, saber mais sobre o público alvo. Principalmente saber onde, como e porque estamos intervindo em tal área.",
+    "Planejamento - obter tudo que é necessário para o desenvolvimento, fazer o design do software, saber o que fazer e como fazer e o porquê fazer.",
+    "Desenvolvimento - Momento de colocar em prática tudo que foi planejado na etapa anterior. Fazer com que o software tenha o desempenho esperado, testar bugs.",
+    "Entrega - Produção do artigo cientifico, slides, para que a banca fique ciente da proposta e dos resultados esperados, e assim possa avaliar a execução do projeto."
+  ],
+  "referencias": ["Confia"],
+  "pesquisa": "desenho",
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

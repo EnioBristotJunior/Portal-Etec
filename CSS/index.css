@@ -1,0 +1,252 @@
+/*Fontes*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&family=Quicksand:wght@300;400;500;600;700&display=swap");
+
+/*font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;*/
+
+/* Cores */
+
+:root {
+  --vermelho: #f22b29;
+  --fundo: #f7f8fc;
+  --preto: #000000;
+  --verde: #1aa156;
+  --branco: #ffffff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--fundo);
+}
+
+/*Slide*/
+
+/* .slide {
+  margin-top: 80px;
+} */
+
+.img {
+  width: 100%;
+  height: 800px;
+  background-image: url("../Imagens/fundo-etec.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.title {
+  position: absolute;
+  font-family: "Quicksand", sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.title h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.standart-btn {
+  background-color: var(--vermelho);
+  width: 115px;
+  height: 55px;
+  border: none;
+  border-radius: 25px;
+  color: #ffffff;
+  font-family: "Quicksand", sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  cursor: pointer;
+  text-align: center;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+/* Sobre */
+
+.sobre {
+  display: flex;
+  flex-direction: row;
+  margin: 200px 100px 100px 100px;
+  min-height: 40vh;
+  justify-content: space-evenly;
+  gap: 50px;
+}
+
+.text-side {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  gap: 20px;
+}
+
+.text-side h1 {
+  color: var(--vermelho);
+  font-family: "Quicksand", sans-serif;
+  font-size: 40px;
+}
+
+.text-side p {
+  color: #000000;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+}
+
+.cards-side {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
+
+.card-sobre {
+  display: flex;
+  max-width: 800px;
+  height: 120px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 8px 8px 27px #ededed, -8px -8px 27px #ffffff;
+  align-items: center;
+  justify-content: left;
+  gap: 25px;
+  padding: 25px;
+}
+
+.card-sobre h1 {
+  font-family: "Quicksand", sans-serif;
+  font-size: 20px;
+}
+
+.card-sobre p {
+  font-family: "Poppins", sans-serif;
+}
+
+.img-card {
+  size: 10px;
+}
+
+/* Cursos */
+
+.cursos {
+  background-color: var(--vermelho);
+  padding: 50px;
+}
+
+.cursos .cursos-title {
+  color: #ffffff;
+  font-size: 40px;
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+}
+
+.cursos .cursos-cards {
+  display: flex;
+  gap: 25px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex: 1 0 400px;
+}
+
+.cursos .curso-card {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: space-between;
+  background-color: #ffffff;
+  width: 500px;
+  height: 250px;
+  border-radius: 20px;
+  padding: 25px;
+}
+
+.cursos .curso-card h1 {
+  font-size: 30px;
+  color: var(--vermelho);
+  font-family: "Quicksand", sans-serif;
+}
+
+.cursos .curso-card p {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  max-width: 400px;
+}
+
+/* Responsivo */
+
+@media (max-width: 1305px) {
+  .sobre {
+    display: flex;
+    flex-direction: column;
+    margin: 100px 100px 100px 100px;
+    min-height: 40vh;
+    justify-content: space-evenly;
+    gap: 50px;
+    align-items: center;
+  }
+}
+
+@media (max-width: 760px) {
+  .sobre {
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    min-height: 40vh;
+    justify-content: space-evenly;
+    gap: 50px;
+    align-items: center;
+  }
+
+  .card-sobre {
+    display: flex;
+    max-width: 800px;
+    height: auto;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 8px 8px 27px #ededed, -8px -8px 27px #ffffff;
+    align-items: initial;
+    justify-content: left;
+    gap: 25px;
+    padding: 25px;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 500px) {
+  .sobre {
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    min-height: 40vh;
+    justify-content: space-evenly;
+    gap: 50px;
+    align-items: center;
+  }
+
+  .cursos .curso-card h1 {
+    font-size: 24px;
+    color: var(--vermelho);
+    font-family: "Quicksand", sans-serif;
+  }
+
+  .cursos .curso-card p {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    max-width: 400px;
+  }
+}
+
+::selection{
+  background: #0dd4d6;
+  color: var(--vermelho);
+}

@@ -1,0 +1,68 @@
+{
+  "titulo": "Cadastro de CV e Talentos",
+  "descricao": "Plataforma para cadastro de pessoas no mercado de trabalho.",
+  "equipe": [
+    {
+      "Nome": "Leonardo Paes",
+      "Email": "leonardo.garcia59@etec.sp.gov.br"
+    },
+    {
+      "Nome": "Lorran Gomes",
+      "Email": "lorran.martins@etec.sp.gov.br"
+    },
+    {
+      "Nome": "Nícolas Oliveira",
+      "Email": "nicolas.pereira28@etec.sp.gov.br"
+    },
+    {
+      "Nome": "Renam Bernardes",
+      "Email": "renam.santos@etec.sp.gov.br"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "vespertino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Você sabe fazer um currículo? Sabe como fazer uma entrevista de emprego ou alguma auditoria? Já teve alguma experiência no mercado de trabalho?",
+  "justificativa": "Facilitar o contato entre o trabalhador e a empresa. Principalmente se for a primeira vez.",
+  "hipotese": "Criação de um site para envio de currículos ou talentos para uma empresa. Facilitando a visualização da empresa te contratar ou ser notado por algum serviço pessoal.",
+  "objetivos": {
+    "geral": "Desenvolver um meio de contato entre candidato, empresa ou algum serviço pessoal, para que a pessoa consiga enviar o currículo ou suas habilidades e competências para a empresa ou pessoa em busca de serviço, facilitando o acesso ao emprego. E a empresa poderá cadastrar vagas com informações simples para os candidatos souberem exatamente do que se trata e o que é necessário para.",
+    "especificos": [
+      "Com essa aplicação web, a pessoa a procura um emprego, conseguirá fazer o seu currículo de uma forma simples e objetiva, e manterá em sigilo as informações pessoais inseridas.",
+      "Assim o contato entre a empresa e o candidato ficará mais fácil e rápido, causando um a baixa na taxa de desemprego.",
+      "E, não menos importante, as viagens a procura de emprego, que nem sempre é achado um emprego, diminuiria, porque a pessoa poderá ver se tem algum emprego disponível aonde ela está indo e já sabendo do que se trata a vaga e depois, é claro, de ter mandado currículo e a empresa já confirmou que está contratada facilitando a vida dessa pessoa."
+    ]
+  },
+  "metodologia": [
+    "Estudo – pesquisa sobre o tema escolhido",
+    "Planejamento – Montar o cronograma e slides",
+    "Execução – Montagem do software e banco de dados",
+    "Entrega – Apresentação do projeto."
+  ],
+  "referencias": [
+    "CORROCHANO, Maria Carla. Jovens trabalhadores: expectativas de acesso ao ensino superior. Avaliação: Revista da Avaliação da Educação Superior (Campinas), v. 18, p. 23-44, 2013.. Disponível em: https://www.scielo.br/j/aval/a/ZGDpVRbM3Hmjm3fS3jyXYTb/?lang=pt. Acesso em: 23 fev. 2023.",
+    "DEDECCA, Claudio Salvadori. Desregulação e desemprego no capitalismo avançado. São Paulo em perspectiva, v. 10, n. 1, p. 13-20, 1996. Disponível em: https://www.scielo.br/j/rbe/a/t8KgVTP9sJVW96PMYMw5Hyt/?format=pdf&lang=pt. Acesso em: 23 fev. 2023.",
+    "DE SOUZA LIMA, Evelyn; ABREU, Kamila Eulalio. Dificuldades de jovens sem vínculo formal de emprego durante a pandemia da COVID-19: Limites do empreendedorismo em tempos de crise. Boletim de Conjuntura (BOCA), v. 3, n. 9, p. 56-73, 2020. Disponível em: https://revista.ioles.com.br/boca/index.php/revista/article/view/64/68.  Acesso em: 23 fev. 2023.",
+    "GUIMARÃES, Nadya Araujo. Por uma sociologia do desemprego. Revista Brasileira de Ciências Sociais, v. 17, p. 104-121, 2002. Disponível em: https://www.scielo.br/j/rbcsoc/a/Snk5wr3D9sphWQsw3DVVrwN/?format=pdf&lang=pt. Acesso em: 23 fev. 2023.",
+    "LARCHER, Guilherme. Os principais desafios encontrados pelos jovens no mercado de trabalho. Tribuna de Minas, 28 jan. 2022. Disponível em: https://tribunademinas.com.br/colunas/larchcompartilha/28-01-2022/os-principais-desafios-encontrados-pelos-jovens-no-mercado-de-trabalho.html. Acesso em: 27 fev. 2023.",
+    "MATHEUS, Tiago Corbisier. Jovens e mercado de trabalho. GV-EXECUTIVO, v. 10, n. 1, p. 47-49, 2011. Disponível em: https://bibliotecadigital.fgv.br/ojs/index.php/gvexecutivo/article/view/22946/21713. Acesso em: 23 fev. 2023.",
+    "MOURA, Daniela Macedo de; ANDRADE, Fernanda Zangiacomi. PRIMEIRO EMPREGO: A dificuldade do jovem no mercado de trabalho. 2015. Disponível em: http://www.bibliotecadigital.funvicpinda.org.br:8080/jspui/bitstream/123456789/278/1/MouraAndrade.pdf. Acesso em: 23 fev. 2023.",
+    "PASTORE, José. As dificuldades dos jovens no mercado de trabalho. Conselho de Emprego e Relações do Trabalho da FecomercioSP, São Paulo, v. 3, 2020. Disponível em: https://www.fecomercio.com.br/noticia/as-dificuldades-dos-jovens-no-mercado-de-trabalho-por-jose-pastore. Acesso em: 23 fev. 2023.",
+    "RAITZ, Tânia Regina; PETTERS, Luciane Carmem Figueredo. Novos desafios dos jovens na atualidade: trabalho, educação e família. Psicologia & Sociedade, v. 20, p. 408-416, 2008. Disponível em: https://www.scielo.br/j/psoc/a/jNxSdtJbwbtPRXHBQwFwGMS/?lang=pt. Acesso em: 23 fev. 2023.",
+    "SANTOS, António Duarte. O aumento das qualificações e o bem-estar intergeracional: O emprego e a produtividade em Pandemia. RevistaMultidisciplinar, v. 4, n. 1, p. 135-150, 2022. Disponível em: https://revistamultidisciplinar.com/index.php/oj/article/view/100/101. Acesso em: 23 fev. 2023.",
+    "SOUZA, Davisson Charles Cangussu; VAZQUEZ, Daniel Arias. Expectativas de jovens do ensino médio público em relação ao estudo e ao trabalho. Educação e Pesquisa, v. 41, n. 2, p. 409-426, 2015. Disponível em: https://www.scielo.br/j/ep/a/cJQVc7BysFcfGyvzTy4QyXm/?format=pdf&lang=pt. Acesso em: 23 fev. 2023.",
+    "UNIVERSIDADE VIRTUAL DO ESTADO DE SÃO PAULO. Jovens no mercado de trabalho. Blog Univs, [S.l.], 10 jun. 2021. Disponível em: https://univs.edu.br/blog/jovens-no-mercado-de-trabalho/. Acesso em: 27 fev. 2023.",
+    "VAGAS.COM.BR. Quais são as principais dificuldades dos jovens no mercado de trabalho?. Disponível em: https://www.vagas.com.br/profissoes/quais-sao-principais-dificuldades-dos-jovens-no-mercado-de-trabalho/. Acesso em: 27 fev. 2023."
+  ],
+  "pesquisa": "Só Deus sabe o link"
+}

@@ -1,0 +1,54 @@
+{
+    "titulo": "Fabrica de chumbo",
+    "descricao": "Chumbo top.",
+    "equipe": [
+      {
+        "Nome": "Zacarias",
+        "Email": "zacarias@gmail.com"
+      },
+      {
+        "Nome": "Pedro",
+        "Email": "pedro@gmail.com"
+      },
+      {
+        "Nome": "Paulo",
+        "Email": "paulo@gmail.com"
+      },
+      {
+        "Nome": "Angelica",
+        "Email": "angelica@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Uma fabrica de chumbo.",
+    "justificativa": "Chumbo.",
+    "hipotese": "Minerar.",
+    "objetivos": {
+      "geral": "Usar.",
+      "especificos": ["Chumbo.", "Chumb.", "Chum.", "Chu."]
+    },
+    "metodologia": [
+      "Estudo - Estudar o chumbo.",
+      "Planejamento - Comer muito chumbo.",
+      "Desenvolvimento -  Cozinhar chumbo.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "chumbo",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

@@ -1,0 +1,54 @@
+{
+    "titulo": "Calculadora",
+    "descricao": "Calcula muitas coisas.",
+    "equipe": [
+      {
+        "Nome": "Cal a calculadora",
+        "Email": "calacalculadora@gmail.com"
+      },
+      {
+        "Nome": "Cal a calculadora",
+        "Email": "calacalculadora@gmail.com"
+      },
+      {
+        "Nome": "Cal a calculadora",
+        "Email": "calacalculadora@gmail.com"
+      },
+      {
+        "Nome": "Cal a calculadora",
+        "Email": "calacalculadora@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Calculadora.",
+    "justificativa": "Calculadora.",
+    "hipotese": "Calculadora.",
+    "objetivos": {
+      "geral": "Calcular.",
+      "especificos": ["Calcula.", "Calculadora.", "Calcular.", "Contar."]
+    },
+    "metodologia": [
+      "Estudo - Calcula.",
+      "Planejamento - Calculadora.",
+      "Desenvolvimento -  Calcular.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "calculadora que gosta de calcular",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

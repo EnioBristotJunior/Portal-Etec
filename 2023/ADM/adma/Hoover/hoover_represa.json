@@ -1,0 +1,47 @@
+{
+  "titulo": "TELL ME – App para auxiliar a comunicação de pessoas com dificuldades na fala e audição.",
+  "descricao": "Muito grande.",
+  "equipe": [
+    {
+      "Nome": "Rosangela",
+      "Email": "rosangela@gmail.com"
+    },
+    {
+      "Nome": "Ana",
+      "Email": "ana@gmail.com"
+    },
+    {
+      "Nome": "Fred",
+      "Email": ""
+    },
+    {
+      "Nome": "Frank",
+      "Email": "frank@gmail.com"
+    },
+    { "Nome": "" }
+  ],
+  "orientadores": {
+    "orientador": {},
+    "coorientador": {}
+  },
+  "periodo": "matutino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Um lugar bonito.",
+  "justificativa": "É um lugar bonito.",
+  "hipotese": "Nenhuma.",
+  "objetivos": {
+    "geral": "Ver.",
+    "especificos": ["Re.", "presa.", "Hoo.", "ver."]
+  },
+  "metodologia": [
+    "Estudo - Viajar.",
+    "Planejamento - Ver.",
+    "Desenvolvimento -  Nenhum.",
+    "Entrega - 29/02/2023."
+  ],
+  "referencias": ["Confia"],
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

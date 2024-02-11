@@ -1,0 +1,49 @@
+{
+  "titulo": "Lata de agua",
+  "descricao": "Agua em lata.",
+  "equipe": [
+    {
+      "Nome": "Pose Y Dom",
+      "Email": "aguinha@gmail.com"
+    },
+    {
+      "Nome": "Agua a Aguinha",
+      "Email": "molhado@gmail.com"
+    },
+    {
+      "Nome": "Limonada Suica",
+      "Email": "limaozinhodeliciagelada@gmail.com"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "matutino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Uma aguinha.",
+  "justificativa": "Beber agua em lata.",
+  "hipotese": "Eu sou a lenda.",
+  "objetivos": {
+    "geral": "Beber.",
+    "especificos": ["Agua.", "Agu.", "Ag.", "A."]
+  },
+  "metodologia": [
+    "Estudo - Rio.",
+    "Planejamento - Beber.",
+    "Desenvolvimento - Mesa.",
+    "Entrega - 29/02/2023."
+  ],
+  "referencias": ["Confia"],
+  "pesquisa": "Agua molhada",
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

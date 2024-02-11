@@ -1,0 +1,54 @@
+{
+    "titulo": "Tenis Nike",
+    "descricao": "Muito bonito barato 0KM.",
+    "equipe": [
+      {
+        "Nome": "Michael Jordão",
+        "Email": "jordao@gmail.com"
+      },
+      {
+        "Nome": "Adidas",
+        "Email": "mecolocaramaforcanogrupo@gmail.com"
+      },
+      {
+        "Nome": "Puma",
+        "Email": "tigre@gmail.com"
+      },
+      {
+        "Nome": "NB",
+        "Email": "ninguemliga@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Ficar bonito e dificil.",
+    "justificativa": "Estilo.",
+    "hipotese": "Um tenis vai deixar a pessoa mais bonita.",
+    "objetivos": {
+      "geral": "Tenis/Sapato.",
+      "especificos": ["Nike.", "Nik.", "Ni.", "N."]
+    },
+    "metodologia": [
+      "Estudo - Nike muito loko tenis top.",
+      "Planejamento - Costurar.",
+      "Desenvolvimento -  Mesa.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "Tenis",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

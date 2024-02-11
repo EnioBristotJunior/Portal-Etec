@@ -1,0 +1,54 @@
+{
+    "titulo": "Computador",
+    "descricao": "Computador 500gb de RAM.",
+    "equipe": [
+      {
+        "Nome": "Computador",
+        "Email": "eu@gmail.com"
+      },
+      {
+        "Nome": "Lenovo",
+        "Email": "euprecisodemanutencao@gmail.com"
+      },
+      {
+        "Nome": "Samsung",
+        "Email": "samsungui@gmail.com"
+      },
+      {
+        "Nome": "PC",
+        "Email": "pc@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Construir um PC bão.",
+    "justificativa": "Jogar videogame.",
+    "hipotese": "Ficar feliz.",
+    "objetivos": {
+      "geral": "PC muito top loko barato roda tudo 2023.",
+      "especificos": ["Chat GPT.", "Apple.", "LG.", "bifgbisdbfgishgfd."]
+    },
+    "metodologia": [
+      "Estudo - Nenhum.",
+      "Planejamento - Estudio de PC.",
+      "Desenvolvimento -  Video no Youtube.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "pcinho top",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

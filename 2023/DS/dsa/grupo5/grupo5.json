@@ -1,0 +1,53 @@
+{
+  "titulo": "Rádio movido a suco de laranja",
+  "descricao": "Rádio barato movido a suco de laranja ai que delicia.",
+  "equipe": [
+    {
+      "Nome": "Jailson do Mendes",
+      "Email": "urso@gmail.com"
+    },
+    {
+      "Nome": "Peça",
+      "Email": "eraessapecaquevocequeria@gmail.com"
+    },
+    {
+      "Nome": "Fabinho do Jalapão",
+      "Email": "tirotirotirotiro@gmail.com"
+    },
+    {
+      "Nome": "Ronaldi You Mequi Donaldi",
+      "Email": "mc@gmail.com"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "matutino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Um radio.",
+  "justificativa": "Tocar musicas muito top.",
+  "hipotese": "Tocar e tomar um suco delicia.",
+  "objetivos": {
+    "geral": "Ouvir/beber.",
+    "especificos": ["Suco.", "De.", "Laranja.", "Delicia Gelada."]
+  },
+  "metodologia": [
+    "Estudo - Radios e como funcionam.",
+    "Planejamento - Tocar musica.",
+    "Desenvolvimento -  Construir um radio, ficar rico e morar em Istambul.",
+    "Entrega - 29/02/2023."
+  ],
+  "referencias": ["Confia"],
+  "pesquisa": "radio",
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

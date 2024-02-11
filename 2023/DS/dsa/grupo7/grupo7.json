@@ -1,0 +1,53 @@
+{
+  "titulo": "Alarme anti fogo",
+  "descricao": "Ta pegando fogo bicho.",
+  "equipe": [
+    {
+      "Nome": "Faustão",
+      "Email": "agoraparadesligaressamaimeu@gmail.com"
+    },
+    {
+      "Nome": "Ai Ai",
+      "Email": "aiaiaaiaiiaiiaiiaiaiaia@gmail.com"
+    },
+    {
+      "Nome": "Churrasqueira",
+      "Email": "eletrica@gmail.com"
+    },
+    {
+      "Nome": "Churrasco",
+      "Email": "carninha@gmail.com"
+    }
+  ],
+  "orientadores": {
+    "orientador": {
+      "Nome": "Sérgio Montagner",
+      "Email": "sergiomontagner@gmail.com"
+    },
+    "coorientador": {
+      "Nome": "Não Definido",
+      "Email": "Não Definido"
+    }
+  },
+  "periodo": "matutino",
+  "curso": "DS",
+  "turma": "3DSB",
+  "problema": "Um alarme.",
+  "justificativa": "Avisar.",
+  "hipotese": "Vai salvar vidas e acordar os bicho tudo.",
+  "objetivos": {
+    "geral": "pipipipipipiipipipipipiipipi.",
+    "especificos": ["Fogo.", "Fogo.", "Fogo.", "Fogo."]
+  },
+  "metodologia": [
+    "Estudo - alarmes.",
+    "Planejamento - no papel.",
+    "Desenvolvimento -  na crafting table.",
+    "Entrega - 29/02/2023."
+  ],
+  "referencias": ["Confia"],
+  "pesquisa": "carro",
+
+  "foto": "./2023/DS/dsb/grupo1/Tell.png",
+  "qrcode": "./2023/DS/dsb/grupo1/"
+}

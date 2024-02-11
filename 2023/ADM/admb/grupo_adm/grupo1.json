@@ -1,0 +1,51 @@
+{
+  "titulo": "ADM",
+  "descricao": "é meu maior amor",
+  "equipe": [
+    {
+      "Nome": "Davi Ibraim",
+      "Email": "eniobristotjunior@gmail.com"
+    },
+    {
+      "Nome": "Enio Bristot Junior",
+      "Email": "eniobristotjunior@gmail.com"
+    },
+    {
+      "Nome": "Paulo André",
+      "Email": "eniobristotjunior@gmail.com"
+    },
+    {
+      "Nome": "Saulo Giordani",
+      "Email": "eniobristotjunior@gmail.com"
+    }
+  ],
+  "orientadores": {
+    "orientador": "Serjão",
+    "coorientador": "indefinido"
+  },
+  "imagem": {},
+  "periodo": "vespertino",
+  "curso": "ADM",
+  "turma": "3DSB",
+  "problema": "A falta de praticidade e agilidade de pessoas com deficiência auditiva e dificuldade na oralidade de se comunicar com outras pessoas, no seu dia a dia.",
+  "justificativa": "Há uma falta de consideração com a sociedade surdo-mudo. Acredita-se hoje que a deficiência auditiva e a dificuldade na fala não são tão relevantes, principalmente em relação a dificuldade na fala, levando a falta interesse para a criação de ferramentas para a acessibilidade de pessoas com tais problemas.",
+  "hipotese": "Desenvolver um aplicativo que irá reduzir durações desnecessárias de tempo ao se comunicar; oferecendo agilidade e praticidade ao usuário na hora de falar com outras pessoas.",
+  "objetivos": {
+    "geral": "Incluir pessoas com deficiência auditiva e com problemas de comunicação.",
+    "especificos": "Trazer praticidade no dia a dia do usuário, fazendo que fique a comunicação do usuário seja mais ágil e mais agradável."
+  },
+  "metodologia": {
+    "estudo": "obter fontes para saber as áreas que devem/precisam ser impactadas pelo projeto, saber mais sobre o público alvo. Principalmente saber onde, como e porque estamos intervindo em tal área.",
+    "planejamento": "obter tudo que é necessário para o desenvolvimento, fazer o design do software, saber o que fazer e como fazer e o porquê fazer.",
+    "desenvolvimento": "Momento de colocar em prática tudo que foi planejado na etapa anterior. Fazer com que o software tenha o desempenho esperado, testar bugs.",
+    "Entrega ": "Produção do artigo cientifico, slides, para que a banca fique ciente da proposta e dos resultados esperados, e assim possa avaliar a execução do projeto."
+  },
+  "referencias": [
+    "BORNHOLDT, Larissa et al. Cuidados de enfermagem a indivíduos com surdez e/ou mudez em instituição hospitalar: Nursing care to individuals with deafness and/or dumbness in hospital institution. Revista Enfermagem Atual In Derme, v. 89, n. 27, 2019. Disponível em https://revistaenfermagematual.com/index.php/revista/article/view/422/513. Acesso em: 16/2/2023.",
+    "GOULART, Bárbara Niegia Garcia de; CHIARI, Brasília M. Distúrbios de fala e dificuldades de aprendizagem no Ensino Fundamental. Revista CEFAC, v. 16, p. 810-816, 2014. Disponível em:https://www.scielo.br/j/rcefac/a/yc8DC6bNqTMZ4mHKDQdfq6Q/?lang=pt. Acesso em 16/2/2023",
+    "Jackson, Abraham Willard. Deafness and Cheerfulness: By A. W. JACKSON, A.M. Author of “James Martineau: A Biography and Study”. Boston. Little, Brown, and company, 1901.",
+    "-Oliveira, Sebastião Reis de. As formações discursivas sobre o “ser surdo” na escola inclusiva / Sebastião Reis de Oliveira. – Ponta Grossa - PR: Atena, 2021. E-book.",
+    "STROBEL, Karin. História da educação de surdos. Florianópolis: UFSC, 2009. Disponível em: https://libras.ufsc.br/colecaoLetrasLibras/eixoFormacaoEspecifica/historiaDaEducacaoDeSurdos/assets/258/TextoBase_HistoriaEducacaoSurdos.pdf. Acesso em 1/3/2023.",
+    "DOS SANTOS, Carla Lidiane Garbinato; ZYCH, Anízia Costa. A ALFABETIZAÇÃO DE ALUNOS SURDOS: UMA REFLEXÃO NECESSÁRIA. UNICENTRO, 2010. Disponível em: https://anais.unicentro.br/seped/2010/pdf/resumo_60.pdf Acesso em 9/3/2023."
+  ]
+}

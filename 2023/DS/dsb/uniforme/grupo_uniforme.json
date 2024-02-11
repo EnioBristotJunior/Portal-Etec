@@ -1,0 +1,54 @@
+{
+    "titulo": "Roupa militar",
+    "descricao": "Uniforme muito top.",
+    "equipe": [
+      {
+        "Nome": "Geoge Yu Uochintom",
+        "Email": "wdc@gmail.com"
+      },
+      {
+        "Nome": "Napoleão Bom na Party",
+        "Email": "dancamuito@gmail.com"
+      },
+      {
+        "Nome": "Careca",
+        "Email": "cabecudo@gmail.com"
+      },
+      {
+        "Nome": "João III",
+        "Email": "joaoiii@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Um uniforme.",
+    "justificativa": "Uniforme muito top.",
+    "hipotese": "Aquecer o corpo.",
+    "objetivos": {
+      "geral": "Usar.",
+      "especificos": ["Exercito.", "Brasileiro.", "Muito.", "Top."]
+    },
+    "metodologia": [
+      "Estudo - Uniformes e como funcionam.",
+      "Planejamento - Costurar.",
+      "Desenvolvimento -  Costurar um uniforme.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "uniforme",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

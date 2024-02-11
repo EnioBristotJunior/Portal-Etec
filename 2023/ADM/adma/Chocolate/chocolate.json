@@ -1,0 +1,54 @@
+{
+    "titulo": "Fabrica de chocolate",
+    "descricao": "Chocolate delicia.",
+    "equipe": [
+      {
+        "Nome": "Garoto",
+        "Email": "garotobrasil@gmail.com"
+      },
+      {
+        "Nome": "Lacta",
+        "Email": "lactabrasil@gmail.com"
+      },
+      {
+        "Nome": "Cacau Show",
+        "Email": "showcacaubrasil@gmail.com"
+      },
+      {
+        "Nome": "Arcor",
+        "Email": "arcorbrasil@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Uma fabrica de chocolate.",
+    "justificativa": "Chocolate muito top.",
+    "hipotese": "Comer e ficar feliz.",
+    "objetivos": {
+      "geral": "Comer.",
+      "especificos": ["Chocolate.", "Muito.", "Gostoso.", "É aqui."]
+    },
+    "metodologia": [
+      "Estudo - Estudar os chocolates.",
+      "Planejamento - Comer muito chocolate.",
+      "Desenvolvimento -  Cozinhar chocolate.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "chocolate",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

@@ -1,0 +1,54 @@
+{
+    "titulo": "Um estudo sobre a Guerra Civil Americana",
+    "descricao": "EUA x CSA.",
+    "equipe": [
+      {
+        "Nome": "Rosangela",
+        "Email": "rosangela@gmail.com"
+      },
+      {
+        "Nome": "Ana",
+        "Email": "ana@gmail.com"
+      },
+      {
+        "Nome": "Fred",
+        "Email": "fred@gmail.com"
+      },
+      {
+        "Nome": "Frank",
+        "Email": "frank@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "EUA.",
+    "justificativa": "EUA.",
+    "hipotese": "EUA.",
+    "objetivos": {
+      "geral": "EUA.",
+      "especificos": ["EUA.", "EUA.", "EUA.", "EUA."]
+    },
+    "metodologia": [
+      "Estudo - EUA.",
+      "Planejamento - EUA.",
+      "Desenvolvimento -  EUA.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "EUA",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

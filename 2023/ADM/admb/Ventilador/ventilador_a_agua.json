@@ -1,0 +1,54 @@
+{
+    "titulo": "Ventilador movido a agua",
+    "descricao": "Ventilador muito top movido a agua.",
+    "equipe": [
+      {
+        "Nome": "Venti o Ventilador",
+        "Email": "ventinho@gmail.com"
+      },
+      {
+        "Nome": "Ventinho Legal",
+        "Email": "ventolegal@gmail.com"
+      },
+      {
+        "Nome": "Gira Gira",
+        "Email": "giraygira@gmail.com"
+      },
+      {
+        "Nome": "Aguinha",
+        "Email": "aguina@gmail.com"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio You Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "Um ventilador movido a agua.",
+    "justificativa": "A necessidade de se refrescar no calor.",
+    "hipotese": "Gira y ventila o0 ventilador.",
+    "objetivos": {
+      "geral": "Ventinho movido a agua.",
+      "especificos": ["Huhuhuhuhuhuh.", "Huhuhuhuhuhuh.", "Huhuhuhuhuhuh.", "Huhuhuhuhuhuh."]
+    },
+    "metodologia": [
+      "Estudo - Ventiladores e como funcionam.",
+      "Planejamento - Construir um ventilador movido a agua.",
+      "Desenvolvimento -  Construir um ventilador movido a agua no fundo do meu quintal rsrsrsrsrs.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "ventinho vrum vrum",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  

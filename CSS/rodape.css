@@ -1,0 +1,101 @@
+:root {
+  --vermelho: #f22b29;
+  --fundo: #f7f8fc;
+  --preto: #000000;
+  --verde: #1aa156;
+  --branco: #ffffff;
+  --blackvideo: #201b2c;
+  --verdin: #1cfeba;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+footer {
+  background-color: var(--vermelho);
+  color: var(--preto);
+  min-height: 150px;
+  padding: 50px;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+}
+.conteudo {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  text-align: center;
+  gap: 40px;
+  font-weight: 700;
+}
+
+/* Icons */
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.icons span {
+  position: relative;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+  background: #ffffff;
+  justify-content: center;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.icons span ion-icon {
+  font-size: 25px;
+}
+
+.icons span:hover {
+  background: var(--preto);
+  color: #ffffff;
+  box-shadow: none;
+}
+
+/* Links */
+
+.conteudo .links .links-ul {
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+}
+
+.conteudo a {
+  color: #000000;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.conteudo a:hover {
+  color: #ffffff;
+}
+
+.media-nome{
+  color: #fff;
+}
+
+@media (max-width: 400px) {
+  .conteudo .links .links-ul {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+::selection{
+  background: #0dd4d6;
+  color: var(--vermelho);
+}

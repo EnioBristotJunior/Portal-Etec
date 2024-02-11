@@ -1,0 +1,54 @@
+{
+    "titulo": "Chat GPT",
+    "descricao": "GPT.",
+    "equipe": [
+      {
+        "Nome": "GPT",
+        "Email": "GPT"
+      },
+      {
+        "Nome": "GPT",
+        "Email": "GPT"
+      },
+      {
+        "Nome": "GPT",
+        "Email": "GPT"
+      },
+      {
+        "Nome": "GPT",
+        "Email": "GPT"
+      }
+    ],
+    "orientadores": {
+      "orientador": {
+        "Nome": "Sérgio Montagner",
+        "Email": "sergiomontagner@gmail.com"
+      },
+      "coorientador": {
+        "Nome": "Não Definido",
+        "Email": "Não Definido"
+      }
+    },
+    "periodo": "matutino",
+    "curso": "DS",
+    "turma": "3DSB",
+    "problema": "GPT.",
+    "justificativa": "GPT.",
+    "hipotese": "GPT.",
+    "objetivos": {
+      "geral": "GPT.",
+      "especificos": ["GPT.", "GPT.", "GPT.", "GPT."]
+    },
+    "metodologia": [
+      "Estudo - GPT.",
+      "Planejamento - GPT.",
+      "Desenvolvimento -  GPT.",
+      "Entrega - 29/02/2023."
+    ],
+    "referencias": ["Confia"],
+    "pesquisa": "GPT",
+  
+    "foto": "./2023/DS/dsb/grupo1/Tell.png",
+    "qrcode": "./2023/DS/dsb/grupo1/"
+  }
+  
